@@ -11,3 +11,10 @@ Aby zainstalować i uruchomić aplikację, wykonaj poniższe kroki:
 
    ```bash
    git clone https://github.com/Deir3adh/api-cli-fetcher.git
+
+## Przykłady komend:
+./cli_fetcher 
+--fetch 
+--url 
+https://api.example.com/data 
+--output data.json
