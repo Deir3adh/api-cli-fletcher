@@ -21,3 +21,5 @@ https://api.example.com/data
 
 ## Mozliwosc rozszerzenia aplikacji
 Aby dodać nowe źródło danych, wystarczy zaimplementować funkcję, która pobiera dane z nowego API. Możesz to zrobić w głównym pliku aplikacji, dodając obsługę nowego URL i zapisywanie wyników do pliku JSON.
+
+Wprowadzone nowe zmiany
